@@ -1,0 +1,27 @@
+.contenedor-boton-clear {
+
+    display: flex;
+    width: 300px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    background-color: #766;
+    height: 55px;
+    border: 5px solid black;
+    border-radius: 25px;
+    font-size: 28px;
+    font-style: italic;
+    user-select: none;
+    cursor: pointer;
+}
+
+.contenedor-boton-clear:hover {
+    transition: background-color .3s ease-in;
+    background-color: #9985ff;
+}
+
+.contenedor-boton-clear:active {
+  transition: background-color 0s ease-in;
+  color: white; 
+  background-color: blue;
+}
