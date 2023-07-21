@@ -1,6 +1,6 @@
 Calculadora Simple donde podes sumar, restar, dividir y multiplicar en ReactJS
 
-Dependencia requerida: mathjs
+Dependencia requerida: npm install mathjs
 
 Captura de pantalla:
 
